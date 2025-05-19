@@ -72,9 +72,10 @@ h1 {
   text-align: center;
 }
 
-.icon {
-  width: 20px;
-  height: 20px;
-  margin-right: 10px;
+.link-list img.icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  margin-right: 12px;
   vertical-align: middle;
 }
